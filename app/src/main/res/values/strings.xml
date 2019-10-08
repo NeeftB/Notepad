@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_notepad">EditNotepadActivity</string>
+    <string name="notepad_title">My Personal Notepad</string>
+    <string name="notepad_edit_title_hint">Please fill in a title</string>
+    <string name="notepad_edit_hint">Please fill in your text</string>
+    <string name="last_updated">%1$s</string>
+</resources>
